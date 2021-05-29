@@ -1,0 +1,1 @@
+- "[OpenSansCondensed-Bold](open_sans_condensed/open_sans_condensed_bold.ttf)" by Steve Matteson, released under [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0), downloaded from <https://fonts.google.com/specimen/Open+Sans+Condensed>.

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/235754__elliotlp__crumple-dry-leaf-2.mp3-e9560f3644f12c72b8efcaa6346c19f5.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/235754__elliotlp__crumple-dry-leaf-2.mp3"
+dest_files=[ "res://.import/235754__elliotlp__crumple-dry-leaf-2.mp3-e9560f3644f12c72b8efcaa6346c19f5.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

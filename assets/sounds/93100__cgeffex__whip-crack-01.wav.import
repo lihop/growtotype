@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/93100__cgeffex__whip-crack-01.wav-140dc43e641d65b38dcdd4bb35869e27.sample"
+
+[deps]
+
+source_file="res://assets/sounds/93100__cgeffex__whip-crack-01.wav"
+dest_files=[ "res://.import/93100__cgeffex__whip-crack-01.wav-140dc43e641d65b38dcdd4bb35869e27.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

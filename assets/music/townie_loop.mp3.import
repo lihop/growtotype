@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/townie_loop.mp3-6a811ac421f48978cb386cbd18975f27.mp3str"
+
+[deps]
+
+source_file="res://assets/music/townie_loop.mp3"
+dest_files=[ "res://.import/townie_loop.mp3-6a811ac421f48978cb386cbd18975f27.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
