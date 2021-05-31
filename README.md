@@ -48,3 +48,6 @@ Fonts from [Google Fonts](https://fonts.google.com/).
 Code from [GitHub](https://github.com).
 
 - Godot-2d-Lightning by Hiago de Souza Cruz (Geminimax), released under GPL-3.0, repo available at <https://github.com/Geminimax/Godot-2d-Lightning>
+
+### Words
+- [Word list](words.txt) by dwyl ([dwyl.com](https://dwyl.com)) and contributors, released under the [Unlicense](https://unlicense.org/), downloaded from <https://github.com/dwyl/english-words/blob/master/words_alpha.txt>. Modified from the original to exclude dirty, naughty, obscene, and otherwise bad words using the list from <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/blob/master/en>, which is released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
