@@ -2,6 +2,7 @@
 
 Game submitted to 2021 Go Godot Jam.
 View the game online at <https://lihop.itch.io/growtotype>.
+Made with the Godot game engine <https://godotengine.org/>.
 
 ## License
 
